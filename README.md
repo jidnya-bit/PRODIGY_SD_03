@@ -51,15 +51,7 @@ This project was built as **Task-03** in Android Studio during my internship at 
 
 ## 📸 Screenshots / Demo  
 
-![Screenshot Placeholder](https://via.placeholder.com/400x700?text=Contact+App+Screenshot)  
-
-*Optional:* Add a **demo GIF** for better GitHub presentation:  
-
-```
-
-![App Demo](path-to-your-demo.gif)
-
-```
+![image alt](https://github.com/jidnya-bit/PRODIGY_SD_04/blob/2c49e977269a1939f4cff7c1382c5e3bbeacd6a4/Screenshot%202025-10-01%20215903.png)
 
 ---
 
